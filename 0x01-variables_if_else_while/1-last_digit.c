@@ -3,9 +3,9 @@
 #include <stdio.h>
 
 /**
- * main - Determine if num is greater than 5, is 0 or is less than 6 and not 0
+ * main - Prints a text according number
  *
- * Return: Always 0 (Success)
+ * Return: Always (Success)
 */
 int main(void)
 {
