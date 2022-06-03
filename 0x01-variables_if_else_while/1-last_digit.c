@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
+
 /**
  * main - Prints a text according number
  *
- * Return: Always 0 (Success)
+ * Return: Always (Success)
 */
 int main(void)
 {
