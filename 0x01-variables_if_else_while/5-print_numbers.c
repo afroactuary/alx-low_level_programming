@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints the numbers from 0-9
+ * main - Prints the numbers from 0-9.
  *
  * Return: Always (Success)
 */
@@ -9,12 +9,11 @@ int main(void)
 {
 	char n;
 
-	  (n = '0'); (n) = '9'; n++;));
+	for (n = '0'; n < 10; n++)
 	{
+		printf("%d", n);
 		putchar(n);
 	}
-
 	putchar('\n');
-
 	return (0);
 }
