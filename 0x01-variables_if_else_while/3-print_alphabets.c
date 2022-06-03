@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints alphabet in lowercase then in uppercase
+ * main - Prints alphabet in lower and uppercase
  *
  * Return: Always (Success)
 */
@@ -14,7 +14,7 @@ int main(void)
 		putchar(c);
 	}
 
-	for (c = 'A'; c <= 'Z' c++)
+	for (c = 'A'; c <= 'Z'; c++)
 	{
 		putchar(c);
 	}
