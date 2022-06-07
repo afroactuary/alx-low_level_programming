@@ -9,9 +9,10 @@ void print_alphabet(void)
 {
 	char  c;
 
-	(c = 'a'); c <= 'z'; c++;);
+	(c = 'a'); c <= 'z'; c++;));
 
 	{
+	
 		_putchar (c);
 	}
 	
