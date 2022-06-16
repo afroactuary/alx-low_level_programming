@@ -1,8 +1,5 @@
 #include <stdio.h>
 
-/**
- * main - concatenates two strings
- */
 int main(void)
 {
 	int n;
