@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <ctype.h>
+
 /**
  * _is_zero - determines if any number is zero
  * @argv: argument vector.
@@ -38,7 +39,7 @@ void _is_zero(char *argv[])
  * @ar: char array.
  * @lar: length of the char array.
  *
- * Return: pointer of a char array.Return: pointer of a char array.
+ * Return: pointer of a char array.
  */
 char *_initialize_array(char *ar, int lar)
 
@@ -56,6 +57,8 @@ char *_initialize_array(char *ar, int lar)
  * and checks if number is in base 10.
  * @argv: arguments vector.
  * @n: row of the array.
+ *
+ * Return: length of the number.
  */
 int _checknum(char *argv[], int n)
 {
