@@ -1,4 +1,4 @@
-nclude <stdlib.h>
+#include <stdlib.h>
 #include <stddef.h>
 /**
  * array_iterator - Check.
